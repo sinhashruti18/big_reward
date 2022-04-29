@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "789938854425",
+    "project_id": "big-brain-game",
+    "storage_bucket": "big-brain-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789938854425:android:5c83eae4e94c4c30112888",
+        "android_client_info": {
+          "package_name": "com.biggamereward.big_reward"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789938854425-nf3ri2vvpmgpvtd25hdaqg15fqu8qa5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biggamereward.big_reward",
+            "certificate_hash": "c0190132f150e381048b7bcfacd01ac3c8f70c11"
+          }
+        },
+        {
+          "client_id": "789938854425-l6pa4lb9k3ofm0fjutmh2anu9g7s8gt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMt-p1PrfQqv63aXqrBbDQfjBjtcpOQUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789938854425-l6pa4lb9k3ofm0fjutmh2anu9g7s8gt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
